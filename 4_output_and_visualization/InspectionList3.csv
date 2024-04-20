@@ -1,0 +1,498 @@
+Seg_ID,UP_MH,DS_MH,Dia_Inch,Shape,Material,Length_Ft,MWL,DS,defects,Video Quality,Jurisdiction,risk score,Inspection_cycle,route
+1,118.2,117,30,Circular,RCP,222,55,0.12,SAV,Good,Dulles Aiport,5,1,1
+1.5,118.2,117,30,Circular,RCP,222,55,0.12,SAV,Good,Dulles Aiport,5,1,1
+2,117,116,30,Circular,RCP,248,25,0.2,SAV,Good,Dulles Aiport,2,9,1
+2.5,117,116,30,Circular,RCP,248,25,0.2,SAV,Good,Dulles Aiport,2,9,1
+3,116,115.8,30,Circular,RCP,209,25,0,SAV,Good,Dulles Aiport,2,9,1
+4,115.8,115,30,Circular,RCP,283,25,0,SAV,Good,Dulles Aiport,2,9,1
+5,115,114,30,Circular,RCP,242,25,0.4,SAV,Good,Dulles Aiport,2,9,1
+5.5,115,114,30,Circular,RCP,242,25,0.4,SAV,Good,Dulles Aiport,2,9,1
+6,114,113,30,Circular,RCP,248,25,0,SAV,Good,Dulles Aiport,3,9,1
+6.5,114,113,30,Circular,RCP,248,25,0,SAV,Good,Dulles Aiport,3,9,1
+7,113,112,30,Circular,RCP,248,25,0,SAV,Good,Dulles Aiport,3,9,1
+7.5,113,112,30,Circular,RCP,248,25,0,SAV,Good,Dulles Aiport,3,9,1
+8,112,111,30,Circular,RCP,248,25,0.1,SAV,Good,Dulles Aiport,3,9,1
+8.5,112,111,30,Circular,RCP,248,25,0.1,SAV,Good,Dulles Aiport,3,9,1
+9,111,110,30,Circular,RCP,247,25,0,SAV,Good,Dulles Aiport,3,9,1
+9.5,111,110,30,Circular,RCP,247,25,0,SAV,Good,Dulles Aiport,3,9,1
+10,110,109,30,Circular,RCP,353,25,0,SAV,Good,Dulles Aiport,3,9,1
+11,109,108,30,Circular,RCP,304,55,0,SAV,Good,Dulles Aiport,3,9,1
+12,107.8,106,30,Circular,RCP,300,20,0,SAM,Good,Dulles Aiport,3,9,1
+13,108,107,30,Circular,RCP,223,55,0,SAV,Good,Dulles Aiport,3,9,1
+13.5,108,107,30,Circular,RCP,223,55,0,SAV,Good,Dulles Aiport,3,9,1
+14,107.84,107.83,30,Circular,RCP,313,25,0,SRC,Good,Dulles Aiport,5,1,1
+15,107.83,107.82,30,Circular,RCP,35,25,0,SRC,Good,Dulles Aiport,5,2,1
+16,107.82,107.81,30,Circular,RCP,390,25,0,SRC,Good,Dulles Aiport,5,1,1
+17,107.81,107.8,30,Circular,RCP,231,40,0,SRC,Good,Dulles Aiport,5,1,1
+17.5,107.81,107.8,30,Circular,RCP,231,40,0,SRC,Good,Dulles Aiport,5,1,1
+18,107.8,106,30,Circular,RCP,266,50,0.09,SAV,Good,Dulles Aiport,5,1,1
+19,107.2,107.84,30,Circular,RCP,195,20,0,SRC,Good,Dulles Aiport,5,1,1
+20,107,107.8,30,Circular,RCP,11,50,0.12,SAV,Good,Dulles Aiport,5,1,1
+21,106,105,30,Circular,RCP,263,40,0,SAV,Good,Dulles Aiport,3,9,1
+21.5,106,105,30,Circular,RCP,263,40,0,SAV,Good,Dulles Aiport,3,9,1
+22,105,104,30,Circular,RCP,223,40,0,SAV,Good,Dulles Aiport,3,9,1
+22.5,105,104,30,Circular,RCP,223,40,0,SAV,Good,Dulles Aiport,3,9,1
+23,104,103,30,Circular,RCP,375,40,0,SAV,Good,Dulles Aiport,2,9,1
+24,103.81,103.8,24,Circular,RCP,215.5,15,0.12,SAP,Poor,Dulles Aiport,3,9,1
+24.5,103.81,103.8,24,Circular,RCP,215.5,15,0.12,SAP,Poor,Dulles Aiport,3,9,1
+25,103.8,103,24,Circular,RCP,135,15,0,SAV,Good,Dulles Aiport,1,8,1
+26,103.2,103.81,24,Circular,RCP,252,15,0.12,SRP,Good,Dulles Aiport,4,9,1
+27,103,102,36,Circular,RCP,173,35,0,SAV,Good,Dulles Aiport,2,5,1
+28,102,101,36,Circular,RCP,215,35,0,SAV,Good,Dulles Aiport,2,5,1
+28.5,102,101,36,Circular,RCP,215,35,0,SAV,Good,Dulles Aiport,2,5,1
+29,101,100,36,Circular,RCP,251,25,0,SAP,Good,Dulles Aiport,3,9,1
+29.5,101,100,36,Circular,RCP,251,25,0,SAP,Good,Dulles Aiport,5,2,1
+30,100,99,36,Circular,RCP,244,30,0,SAP,Good,Dulles Aiport,3,9,1
+30.5,100,99,36,Circular,RCP,244,30,0,SAP,Good,Dulles Aiport,3,9,1
+31,99,98,36,Circular,RCP,246.5,30,0,SAV,Good,Dulles Aiport,5,1,1
+31.5,99,98,36,Circular,RCP,246.5,30,0,SAV,Good,Dulles Aiport,5,1,1
+32,98,97,36,Circular,RCP,251,30,0.09,SAV,Good,Dulles Aiport,2,5,1
+32.5,98,97,36,Circular,RCP,251,30,0.09,SAV,Good,Dulles Aiport,2,5,1
+33,97,96,36,Circular,RCP,250,30,0,SAV,Good,Dulles Aiport,2,5,1
+33.5,97,96,36,Circular,RCP,250,30,0,SAV,Good,Dulles Aiport,2,5,1
+34,96,95,36,Circular,RCP,245,30,0,SAV,Good,Dulles Aiport,1,5,1
+34.5,96,95,36,Circular,RCP,245,30,0,SAV,Good,Dulles Aiport,1,5,1
+35,95,94,30,Circular,RCP,331,30,0,SAV,Good,Dulles Aiport,1,5,1
+36,94,93,30,Circular,RCP,351,30,0,SAV,Good,Dulles Aiport,1,5,1
+37,93,92,30,Circular,RCP,238,30,0,SAV,Good,Dulles Aiport,1,5,1
+37.5,93,92,30,Circular,RCP,238,30,0,SAV,Good,Dulles Aiport,1,5,1
+38,92,91,36,Circular,RCP,248,30,0,SAV,Good,Dulles Aiport,1,5,1
+38.5,92,91,36,Circular,RCP,248,30,0,SAV,Good,Dulles Aiport,1,5,1
+39,91,90,36,Circular,RCP,248,30,0,SAV,Good,Dulles Aiport,1,5,1
+39.5,91,90,36,Circular,RCP,248,30,0,SAV,Good,Dulles Aiport,1,5,1
+40,90,89,36,Circular,RCP,244,30,0,SAV,Good,Dulles Aiport,1,5,1
+40.5,90,89,36,Circular,RCP,244,30,0,SAV,Good,Dulles Aiport,1,5,1
+41,89,88,36,Circular,RCP,251,30,0,SAV,Good,Dulles Aiport,1,5,1
+41.5,89,88,36,Circular,RCP,251,30,0,SAV,Good,Dulles Aiport,2,5,1
+42,88,87,36,Circular,RCP,251,30,0.08,SAV,Good,Dulles Aiport,2,5,1
+42.5,88,87,36,Circular,RCP,251,30,0.08,SAV,Good,Dulles Aiport,4,3,1
+43,87,86,36,Circular,RCP,383,40,0.25,SAV,Good,Dulles Aiport,4,3,1
+44,86,85,36,Circular,RCP,249,30,0,SAV,Good,Dulles Aiport,5,2,1
+44.5,86,85,36,Circular,RCP,249,30,0,SAV,Good,Dulles Aiport,5,2,1
+45,85,84,36,Circular,RCP,248,30,0,SAV,Good,Dulles Aiport,4,3,1
+45.5,85,84,36,Circular,RCP,248,30,0,SAV,Good,Dulles Aiport,4,3,1
+46,84,83,36,Circular,RCP,244,30,0.25,SAV,Good,Dulles Aiport,2,3,1
+46.5,84,83,36,Circular,RCP,244,30,0.25,SAV,Good,Dulles Aiport,2,3,1
+47,83,82,42,Circular,RCP,295,30,0.11,SAV,Good,Dulles Aiport,2,3,1
+47.5,83,82,42,Circular,RCP,295,30,0.11,SAV,Good,Dulles Aiport,3,4,2
+48,82,81,42,Circular,RCP,251,30,0,SAV,Good,Dulles Aiport,3,4,2
+48.5,82,81,42,Circular,RCP,251,30,0,SAV,Good,Dulles Aiport,3,4,2
+49,81,80,42,Circular,RCP,300,30,0,SAV,Good,Dulles Aiport,3,4,2
+49.5,81,80,42,Circular,RCP,300,30,0,SAV,Good,Dulles Aiport,3,5,2
+50,80.83,80.82,24,Circular,RCP,225,10,0.04,SAM,Good,Dulles Aiport,3,3,2
+50.5,80.83,80.82,24,Circular,RCP,225,10,0.04,SAM,Good,Dulles Aiport,3,3,2
+51,80.82,80.81,24,Circular,RCP,257,15,0,SAV,Good,Dulles Aiport,1,7,2
+52,80.81,80.8,24,Circular,RCP,250.5,15,0,SAV,Good,Dulles Aiport,1,7,2
+52.5,80.81,80.8,24,Circular,RCP,250.5,15,0,SAV,Good,Dulles Aiport,1,7,2
+53,80.8,80,24,Circular,RCP,248,15,0,SAV,Good,Dulles Aiport,1,7,2
+53.5,80.8,80,24,Circular,RCP,248,15,0,SAV,Good,Dulles Aiport,1,7,2
+54,80.2,80.83,24,Circular,RCP,179,25,0.04,SAM,Good,Dulles Aiport,3,3,2
+55,80,79,42,Circular,RCP,247,30,0,SAV,Good,Dulles Aiport,3,3,2
+55.5,80,79,42,Circular,RCP,247,30,0,SAV,Good,Dulles Aiport,3,3,2
+56,79,78,42,Circular,RCP,296,30,0,SAV,Good,Dulles Aiport,3,3,2
+56.5,79,78,42,Circular,RCP,296,30,0,SAV,Good,Dulles Aiport,3,7,2
+57,78,77,42,Circular,RCP,289,30,0,SAV,Good,Dulles Aiport,5,1,2
+57.5,78,77,42,Circular,RCP,289,30,0,SAV,Good,Dulles Aiport,5,1,2
+58,77,76,42,Circular,RCP,246,30,0,SAP,Good,Dulles Aiport,5,1,2
+58.5,77,76,42,Circular,RCP,246,30,0,SAP,Good,Dulles Aiport,3,9,2
+59,76,75,42,Circular,RCP,330,30,0,SAV,Good,Dulles Aiport,2,7,2
+59.3,76,75,42,Circular,RCP,330,30,0,SAV,Good,Dulles Aiport,2,7,2
+59.6,76,75,42,Circular,RCP,330,30,0,SAV,Good,Dulles Aiport,2,7,2
+60,75,74,42,Circular,RCP,327,30,0,SAV,Good,Dulles Aiport,2,3,2
+60.3,75,74,42,Circular,RCP,327,30,0,SAV,Good,Dulles Aiport,2,3,2
+60.6,75,74,42,Circular,RCP,327,30,0,SAV,Good,Dulles Aiport,2,3,2
+61,74,73.8,40,Circular,PE,271.5,50,0.16,SRP,Good,Loudoun,4,9,2
+61.5,74,73.8,40,Circular,PE,271.5,50,0.16,SRP,Good,Loudoun,4,9,2
+62,73.8,73,40,Circular,PE,45,45,0.06,SAM,Good,Loudoun,3,9,2
+63,73,72,42,Circular,RCP,240.5,35,0,SRV,Good,Loudoun,4,9,2
+63.5,73,72,42,Circular,RCP,240.5,35,0,SRV,Good,Loudoun,4,9,2
+64,72,71,48,Circular,RCP,334,35,0.08,SAV,Good,Loudoun,2,3,2
+64.3,72,71,48,Circular,RCP,334,35,0.08,SAV,Good,Loudoun,2,3,2
+64.6,72,71,48,Circular,RCP,334,35,0.08,SAV,Good,Loudoun,2,7,2
+65,71,70.8,48,Circular,RCP,13,35,0,SAV,Good,Loudoun,2,7,2
+66,70.8,70.33,48,Circular,RCP,344,35,0,SAV,Good,Loudoun,2,7,2
+67,70.33,70,48,Circular,RCP,283,35,0,SAV,Good,Loudoun,2,7,2
+67.5,70.33,70,48,Circular,RCP,283,35,0,SAV,Good,Loudoun,2,7,2
+68,70,69,48,Circular,RCP,327,40,0,SAV,Good,Loudoun,2,8,2
+68.3,70,69,48,Circular,RCP,327,40,0,SAV,Good,Loudoun,2,8,2
+68.6,70,69,48,Circular,RCP,327,40,0,SAV,Good,Loudoun,2,8,2
+69,69,68.81,48,Circular,RCP,225,40,0,SAV,Poor,Loudoun,2,8,2
+69.5,69,68.81,48,Circular,RCP,225,40,0,SAV,Poor,Loudoun,2,8,2
+70,68.81,68.8,48,Circular,RCP,372,40,0,SAV,Good,Loudoun,2,8,2
+71,68.8,68,48,Circular,RCP,92,40,0,SAV,Good,Loudoun,2,8,2
+72,68,67,48,Circular,RCP,311,40,0,SAV,Good,Loudoun,3,8,2
+72.3,68,67,48,Circular,RCP,311,40,0,SAV,Good,Loudoun,3,8,2
+72.6,68,67,48,Circular,RCP,311,40,0,SAV,Good,Loudoun,3,8,2
+73,67,66,48,Circular,RCP,303,40,0,SAV,Good,Loudoun,3,8,2
+73.3,67,66,48,Circular,RCP,303,40,0,SAV,Good,Loudoun,5,1,2
+73.6,67,66,48,Circular,RCP,303,40,0,SAV,Good,Loudoun,5,1,2
+74,66,65,48,Circular,RCP,298.3333333,50,0,SAV,Good,Loudoun,5,2,2
+74.3,66,65,48,Circular,RCP,298,50,0,SAV,Good,Loudoun,3,8,2
+74.6,66,65,48,Circular,RCP,298,50,0,SAV,Good,Loudoun,3,8,2
+75,65,64,48,Circular,RCP,293,40,0,SAV,Good,Loudoun,3,8,2
+75.3,65,64,48,Circular,RCP,293,40,0,SAV,Good,Loudoun,3,8,2
+75.6,65,64,48,Circular,RCP,293,40,0,SAV,Good,Loudoun,3,7,2
+76,64,63,48,Circular,RCP,329.6666667,40,0,SAM,Good,Loudoun,3,9,2
+76.3,64,63,48,Circular,RCP,329.6666667,40,0,SAM,Good,Loudoun,3,9,2
+76.6,64,63,48,Circular,RCP,329.6666667,40,0,SAM,Good,Loudoun,3,9,2
+77,63,62,48,Circular,RCP,330,40,0,SAV,Good,Loudoun,3,7,2
+77.3,63,62,48,Circular,RCP,330,40,0,SAV,Good,Loudoun,3,7,2
+77.6,63,62,48,Circular,RCP,330,40,0,SAV,Good,Loudoun,3,7,2
+78,62,61,48,Circular,RCP,302,40,0,SAV,Good,Loudoun,3,7,2
+78.3,62,61,48,Circular,RCP,302,40,0,SAV,Good,Loudoun,3,7,2
+78.6,62,61,48,Circular,RCP,302,40,0,SAV,Good,Loudoun,3,7,2
+79,61,60,48,Circular,RCP,328,40,0,SAV,Good,Loudoun,3,7,2
+79.3,61,60,48,Circular,RCP,328,40,0,SAV,Good,Loudoun,3,7,2
+79.6,61,60,48,Circular,RCP,328,40,0,SAV,Good,Loudoun,3,7,2
+80,60,59,48,Circular,RCP,330,45,0,SAV,Good,Loudoun,2,7,2
+80.3,60,59,48,Circular,RCP,330,45,0,SAV,Good,Loudoun,2,7,2
+80.6,60,59,48,Circular,RCP,330,45,0,SAV,Good,Loudoun,2,7,2
+81,59,58.33,48,Circular,RCP,298,40,0,SAV,Good,Loudoun,4,7,2
+81.5,59,58.33,48,Circular,RCP,298,40,0,SAV,Good,Loudoun,4,7,2
+82,58.33,58,48,Circular,RCP,385,40,0,SAV,Good,Loudoun,3,7,2
+83,58,57,54,Circular,RCP,393.3333333,40,0,SRP,Good,Loudoun,4,9,2
+83.3,58,57,54,Circular,RCP,393.3333333,40,0,SRP,Good,Loudoun,4,9,2
+83.6,58,57,54,Circular,RCP,393.3333333,40,0,SRP,Good,Loudoun,4,9,2
+84,57,56,54,Circular,RCP,434,45,0,SAV,Good,Loudoun,3,3,2
+84.3,57,56,54,Circular,RCP,434,45,0,SAV,Good,Loudoun,3,3,2
+84.6,57,56,54,Circular,RCP,434,45,0,SAV,Good,Loudoun,3,3,2
+85,56,55,54,Circular,RCP,430,40,0,SAV,Good,Loudoun,3,3,2
+85.3,56,55,54,Circular,RCP,430,40,0,SAV,Good,Loudoun,3,3,2
+85.6,56,55,54,Circular,RCP,430,40,0,SAV,Good,Loudoun,3,3,2
+86,55,54,66,Circular,RCP,823,30,0,SAV,Good,Loudoun,3,3,2
+86.3,55,54,66,Circular,RCP,823,30,0,SAV,Good,Loudoun,3,3,2
+86.6,55,54,66,Circular,RCP,823,30,0,SAV,Good,Loudoun,3,4,2
+87,54,53.8,66,Circular,RCP,657,30,0.02,SAV,Good,Loudoun,3,4,2
+87.3,54,53.8,66,Circular,RCP,657,30,0.02,SAV,Good,Loudoun,3,4,2
+87.6,54,53.8,66,Circular,RCP,657,30,0.02,SAV,Good,Loudoun,4,4,2
+88,53.8,53,66,Circular,RCP,1048,25,0.03,SAV,Poor,Loudoun,2,4,2
+88.3,53.8,53,66,Circular,RCP,1048,25,0.03,SAV,Poor,Loudoun,2,4,2
+88.6,53.8,53,66,Circular,RCP,1048,25,0.03,SAV,Poor,Loudoun,2,4,2
+89,53,52,66,Circular,RCP,523,25,0,SAV,Good,Loudoun,2,4,2
+89.3,53,52,66,Circular,RCP,523,25,0,SAV,Good,Loudoun,2,4,2
+89.6,53,52,66,Circular,RCP,523,25,0,SAV,Good,Loudoun,2,4,2
+90,52,51,66,Circular,RCP,488,25,0,SAV,Good,Loudoun,2,4,2
+90.3,52,51,66,Circular,RCP,488,25,0,SAV,Good,Loudoun,2,4,2
+90.6,52,51,66,Circular,RCP,488,25,0,SAV,Good,Loudoun,2,4,2
+91,51,50,72,Circular,RCP,399,25,0,SAV,Good,Loudoun,2,4,2
+91.3,51,50,72,Circular,RCP,399,25,0,SAV,Good,Loudoun,2,4,2
+91.6,51,50,72,Circular,RCP,399,25,0,SAV,Good,Loudoun,2,5,2
+92,50,49,72,Circular,RCP,657.6666667,25,0,"SAV, IG",Good,Loudoun,3,9,2
+92.3,50,49,72,Circular,RCP,657.6666667,25,0,"SAV, IG",Good,Loudoun,3,9,2
+92.6,50,49,72,Circular,RCP,657.6666667,25,0,"SAV, IG",Good,Loudoun,3,9,2
+93,49,48,72,Circular,RCP,661,30,0.07,SAV,Poor,Loudoun,2,5,2
+93.3,49,48,72,Circular,RCP,661,30,0.07,SAV,Poor,Loudoun,2,5,2
+93.6,49,48,72,Circular,RCP,661,30,0.07,SAV,Poor,Loudoun,2,5,2
+94,48,47,72,Circular,RCP,661,50,0,SAV,Good,Loudoun,2,5,2
+94.3,48,47,72,Circular,RCP,661,50,0,SAV,Good,Loudoun,2,5,2
+94.6,48,47,72,Circular,RCP,661,50,0,SAV,Good,Loudoun,2,5,2
+95,47,46,72,Circular,RCP,600,40,0.04,SAV,Good,Loudoun,2,5,2
+95.3,47,46,72,Circular,RCP,600,40,0.04,SAV,Good,Loudoun,2,5,2
+95.6,47,46,72,Circular,RCP,600,40,0.04,SAV,Good,Loudoun,2,5,2
+96,46,45,72,C,RCP,586,50,0.02,SAV,Poor,Loudoun,2,5,2
+96.3,46,45,72,C,RCP,586,50,0.02,SAV,Poor,Loudoun,2,5,2
+96.6,46,45,72,C,RCP,586,50,0.02,SAV,Poor,Loudoun,2,5,2
+97,45,44,72,C,RCP,640,45,0,SAV,Good,Loudoun,2,2,2
+97.3,45,44,72,C,RCP,640,45,0,SAV,Good,Loudoun,2,2,2
+97.6,45,44,72,C,RCP,640,45,0,SAV,Good,Loudoun,2,2,2
+98,325,324,36,Circular,RCP,302,50,0,SAV,Good,Sugarland run,2,2,3
+98.5,325,324,36,Circular,RCP,302,50,0,SAV,Good,Sugarland run,2,2,3
+99,324,323,36,Circular,RCP,301,50,0,SAV,Good,Sugarland run,2,5,3
+99.5,324,323,36,Circular,RCP,301,50,0,SAV,Good,Sugarland run,2,5,3
+100,323,322,36,Circular,RCP,252,50,0,SAV,Good,Sugarland run,3,5,3
+100.5,323,322,36,Circular,RCP,252,50,0,SAV,Good,Sugarland run,3,5,3
+101,322,321,36,Circular,RCP,271,50,0,SAV,Good,Sugarland run,3,5,3
+101.5,322,321,36,Circular,RCP,271,50,0,SAV,Good,Sugarland run,3,5,3
+102,321,320,36,Circular,RCP,275,50,0,SAM,Good,Sugarland run,3,9,3
+102.5,321,320,36,Circular,RCP,275,50,0,SAM,Good,Sugarland run,3,9,3
+103,320,319,36,Circular,RCP,244,50,0,SAV,Good,Sugarland run,3,5,3
+103.5,320,319,36,Circular,RCP,244,50,0,SAV,Good,Sugarland run,3,5,3
+104,319,318,36,Circular,RCP,254,50,0,SAV,Good,Sugarland run,3,5,3
+104.5,319,318,36,Circular,RCP,254,50,0,SAV,Good,Sugarland run,3,5,3
+105,318,317,36,Circular,RCP,228,50,0,SAV,Good,Sugarland run,3,5,3
+105.5,318,317,36,Circular,RCP,228,50,0,SAV,Good,Sugarland run,3,5,3
+106,317,316,36,Circular,RCP,237,50,0,SAV,Good,Sugarland run,3,5,3
+106.5,317,316,36,Circular,RCP,237,50,0,SAV,Good,Sugarland run,3,5,3
+107,316,315,36,Circular,RCP,298,50,0,SAV,Good,Sugarland run,2,5,3
+107.5,316,315,36,Circular,RCP,298,50,0,SAV,Good,Sugarland run,2,5,3
+108,315,314,36,Circular,RCP,264,40,0,SAV,Good,Sugarland run,5,2,3
+108.5,315,314,36,Circular,RCP,264,40,0,SAV,Good,Sugarland run,5,2,3
+109,314,313,36,Circular,RCP,222,40,0,SAV,Good,Sugarland run,2,5,3
+109.5,314,313,36,Circular,RCP,222,40,0,SAV,Good,Sugarland run,2,5,3
+110,313,312,42,Circular,RCP,316,25,0,SAV,Good,Sugarland run,1,5,3
+110.5,313,312,42,Circular,RCP,316,25,0,SAV,Good,Sugarland run,1,5,3
+111,312,311,42,Circular,RCP,258,25,0,SAV,Good,Sugarland run,1,5,3
+111.5,312,311,42,Circular,RCP,258,25,0,SAV,Good,Sugarland run,1,5,3
+112,311,310,42,Circular,RCP,315,25,0,SAV,Good,Sugarland run,1,5,3
+112.5,311,310,42,Circular,RCP,315,25,0,SAV,Good,Sugarland run,1,5,3
+113,310,309,42,Circular,RCP,359,25,0,SAV,Good,Sugarland run,2,5,3
+113.5,310,309,42,Circular,RCP,359,25,0,SAV,Good,Sugarland run,2,5,3
+114,309,308,42,Circular,RCP,347,30,0,SAV,Poor,Sugarland run,2,5,3
+114.5,309,308,42,Circular,RCP,347,30,0,SAV,Poor,Sugarland run,2,5,3
+115,308,307,42,Circular,RCP,301,25,0,SAV,Good,Sugarland run,2,5,3
+115.5,308,307,42,Circular,RCP,301,25,0,SAV,Good,Sugarland run,2,5,3
+116,307,306,42,Circular,RCP,297,25,0,SAV,Good,Sugarland run,2,5,3
+116.5,307,306,42,Circular,RCP,297,25,0,SAV,Good,Sugarland run,2,5,3
+117,306,305,42,Circular,RCP,350,25,0,SAV,Good,Sugarland run,2,5,3
+117.5,306,305,42,Circular,RCP,350,25,0,SAV,Good,Sugarland run,2,5,3
+118,305,304,42,Circular,RCP,338,30,0,SAV,Poor,Sugarland run,2,5,3
+118.5,305,304,42,Circular,RCP,338,30,0,SAV,Poor,Sugarland run,2,5,3
+119,304,303,42,Circular,RCP,349,30,0,SAV,Poor,Sugarland run,2,5,3
+119.5,304,303,42,Circular,RCP,349,30,0,SAV,Poor,Sugarland run,2,5,3
+120,303,302,42,Circular,RCP,260,30,0,SAV,Poor,Sugarland run,2,5,3
+120.5,303,302,42,Circular,RCP,260,30,0,SAV,Poor,Sugarland run,2,5,3
+121,302,301,48,Circular,RCP,381,30,0,SAV,Poor,Sugarland run,2,5,3
+121.5,302,301,48,Circular,RCP,381,30,0,SAV,Poor,Sugarland run,2,5,3
+122,301,300,48,Circular,RCP,337,30,0,SAV,Poor,Sugarland run,4,5,3
+122.3,301,300,48,Circular,RCP,337,30,0,SAV,Poor,Sugarland run,4,5,3
+122.6,301,300,48,Circular,RCP,337,30,0,SAV,Poor,Sugarland run,4,5,3
+123,300,44,42,Circular,RCP,286,30,0,SAV,Poor,Sugarland run,4,5,3
+123.5,300,44,42,Circular,RCP,286,30,0,SAV,Poor,Sugarland run,4,5,3
+124,44,43,72,Circular,RCP,593,35,0,SAV,Good,Loudoun,4,3,4
+124.3,44,43,72,Circular,RCP,593,35,0,SAV,Good,Loudoun,4,3,4
+124.6,44,43,72,Circular,RCP,593,35,0,SAV,Good,Loudoun,4,3,4
+125,43,42,72,Circular,RCP,651,35,0,SAV,Good,Loudoun,4,3,4
+125.3,43,42,72,Circular,RCP,651,35,0,SAV,Good,Loudoun,4,3,4
+125.6,43,42,72,Circular,RCP,651,35,0,SAV,Good,Loudoun,5,3,4
+126,42,41,72,Circular,RCP,655.6666667,40,0,SAP,Good,Loudoun,3,9,4
+126.3,42,41,72,Circular,RCP,655.6666667,40,0,SAP,Good,Loudoun,3,9,4
+126.6,42,41,72,Circular,RCP,655.6666667,40,0,SAP,Good,Loudoun,3,9,4
+127,41,40,72,Circular,RCP,546,35,0.02,SAV,Good,Loudoun,2,3,4
+127.3,41,40,72,Circular,RCP,546,35,0.02,SAV,Good,Loudoun,2,3,4
+127.6,41,40,72,Circular,RCP,546,35,0.02,SAV,Good,Loudoun,2,4,4
+128,40,39,72,Circular,RCP,292,30,0,SAV,Poor,Loudoun,2,4,4
+128.5,40,39,72,Circular,RCP,292,30,0,SAV,Poor,Loudoun,2,4,4
+129,39,38,72,Circular,RCP,1128,40,0,SAV,Poor,Loudoun,2,4,4
+129.3,39,38,72,Circular,RCP,1128,40,0,SAV,Poor,Loudoun,2,4,4
+129.6,39,38,72,Circular,RCP,1128,40,0,SAV,Poor,Loudoun,2,4,4
+130,38,37,72,Circular,RCP,478,40,0,SAV,Good,"VA, Great Falls",2,3,4
+130.3,38,37,72,Circular,RCP,478,40,0,SAV,Good,"VA, Great Falls",2,3,4
+130.6,38,37,72,Circular,RCP,478,40,0,SAV,Good,"VA, Great Falls",2,3,4
+131,37,36,66,C,RCP,715,40,0,SAV,Poor,"VA, Great Falls",2,3,4
+131.3,37,36,66,C,RCP,715,40,0,SAV,Poor,"VA, Great Falls",2,3,4
+131.6,37,36,66,C,RCP,715,40,0,SAV,Poor,"VA, Great Falls",2,3,4
+132,36,35,66,C,RCP,593,40,0,SAV,Poor,"VA, Great Falls",2,3,4
+132.3,36,35,66,C,RCP,593,40,0,SAV,Poor,"VA, Great Falls",2,3,4
+132.6,36,35,66,C,RCP,593,40,0,SAV,Poor,"VA, Great Falls",3,3,4
+133,35,34,66,C,RCP,633,40,0,SAV,Poor,"VA, Great Falls",3,3,4
+133.3,35,34,66,C,RCP,633,40,0,SAV,Poor,"VA, Great Falls",3,3,4
+133.6,35,34,66,C,RCP,633,40,0,SAV,Poor,"VA, Great Falls",3,3,4
+134,34,33,66,C,RCP,675,40,0,SAV,Good,"VA, Great Falls",3,3,4
+134.3,34,33,66,C,RCP,675,40,0,SAV,Good,"VA, Great Falls",3,4,4
+134.6,34,33,66,C,RCP,675,40,0,SAV,Good,"VA, Great Falls",3,4,4
+135,33,32,66,C,RCP,670,40,0,SAV,Good,"VA, Great Falls",3,4,4
+135.3,33,32,66,C,RCP,670,40,0,SAV,Good,"VA, Great Falls",2,4,4
+135.6,33,32,66,C,RCP,670,40,0,SAV,Good,"VA, Great Falls",2,4,4
+136,32,31,66,C,RCP,558,40,0,SAV,Good,"VA, Great Falls",2,4,4
+136.3,32,31,66,C,RCP,558,40,0,SAV,Good,"VA, Great Falls",2,4,4
+136.6,32,31,66,C,RCP,558,40,0,SAV,Good,"VA, Great Falls",2,4,4
+137,411,410,60,Circular,RCP,27,30,0,SAV,Good,Watts&muddy,2,6,5
+138,410,409,60,Circular,RCP,653,20,0.04,SAV,Good,Watts&muddy,2,6,5
+138.3,410,409,60,Circular,RCP,653,20,0.04,SAV,Good,Watts&muddy,2,6,5
+138.6,410,409,60,Circular,RCP,653,20,0.04,SAV,Good,Watts&muddy,2,6,5
+139,409,408,60,Circular,RCP,353,20,0.02,SAV,Good,Watts&muddy,2,6,5
+139.5,409,408,60,Circular,RCP,353,20,0.02,SAV,Good,Watts&muddy,2,6,5
+140,408,400,60,Circular,RCP,555,20,0,SAV,Good,Watts&muddy,2,6,5
+140.3,408,400,60,Circular,RCP,555,20,0,SAV,Good,Watts&muddy,2,6,5
+140.6,408,400,60,Circular,RCP,555,20,0,SAV,Good,Watts&muddy,2,6,5
+141,407,406.1,36,Circular,RCP,240,50,0,SAV,Good,Watts&muddy,1,7,5
+142,406,405,36,Circular,RCP,249,50,0,SAV,Good,Watts&muddy,1,7,5
+142.5,406,405,36,Circular,RCP,249,50,0,SAV,Good,Watts&muddy,1,7,5
+143,405,404,36,Circular,RCP,250,50,0.02,SAP,Good,Watts&muddy,2,6,5
+143.5,405,404,36,Circular,RCP,250,50,0.02,SAP,Good,Watts&muddy,2,6,5
+144,404,403,54,Circular,RCP,299,25,0.04,SAP,Good,Watts&muddy,2,6,5
+144.3,404,403,54,Circular,RCP,299,25,0.04,SRP,Good,Watts&muddy,4,6,5
+144.6,404,403,54,Circular,RCP,299,25,0.04,SRP,Good,Watts&muddy,4,6,5
+145,403,402,39,Circular,RCP,322,40,0,SAV,Good,Watts&muddy,1,7,5
+145.3,403,402,39,Circular,RCP,322,40,0,SAV,Good,Watts&muddy,1,7,5
+145.6,403,402,39,Circular,RCP,322,40,0,SAV,Good,Watts&muddy,1,5,5
+146,402,401,39,Circular,RCP,336.6666667,40,0,SAV,Good,Watts&muddy,1,5,5
+146.3,402,401,39,Circular,RCP,336.6666667,40,0,SAV,Good,Watts&muddy,1,5,5
+146.6,402,401,39,Circular,RCP,336.6666667,40,0,SAV,Good,Watts&muddy,1,5,5
+147,401,400,39,Circular,RCP,317,40,0,SAV,Good,Watts&muddy,1,5,5
+147.5,401,400,39,Circular,RCP,317,40,0,SAV,Good,Watts&muddy,1,5,5
+148,400,31,54,Circular,RCP,1123,25,0,SAV,Good,Watts&muddy,4,6,5
+148.3,400,31,54,Circular,RCP,1123,25,0,SAV,Good,Watts&muddy,4,6,5
+148.6,400,31,54,Circular,RCP,1123,25,0,SAV,Good,Watts&muddy,4,6,5
+149,31,30,84,Circular,RCP,1767,40,0,SRV,Good,"VA, Great Falls",3,9,6
+149.3,31,30,84,Circular,RCP,1767,40,0,SRV,Good,"VA, Great Falls",3,9,6
+149.6,31,30,84,Circular,RCP,1767,40,0,SRV,Good,"VA, Great Falls",3,9,6
+150,30,29,78,Arched,RCP,343,20,0,SAV,Good,"VA, Great Falls",4,6,6
+150.3,30,29,78,Arched,RCP,343,20,0,SAV,Good,"VA, Great Falls",4,2,6
+150.6,30,29,78,Arched,RCP,343,20,0,SAV,Good,"VA, Great Falls",4,6,6
+151,224,223,42,Circular,RCP,243,40,0,SAV,Good,Difficult Run,5,6,7
+151.5,224,223,42,Circular,RCP,243,40,0,SAV,Good,Difficult Run,5,2,7
+152,223,222,42,Circular,RCP,224,30,0,SAV,Good,Difficult Run,3,2,7
+152.5,223,222,42,Circular,RCP,224,30,0,SAV,Good,Difficult Run,3,2,7
+153,222,221,42,Circular,RCP,300,50,0,SAP,Good,Difficult Run,3,9,7
+153.5,222,221,42,Circular,RCP,300,50,0,SAP,Good,Difficult Run,3,9,7
+154,221,220,42,Circular,RCP,374.5,50,0,SAP,Good,Difficult Run,3,9,7
+154.5,221,220,42,Circular,RCP,374.5,50,0,SAP,Good,Difficult Run,3,9,7
+155,220,219,42,Circular,RCP,227,50,0,SAM,Good,Difficult Run,3,9,7
+155.5,220,219,42,Circular,RCP,227,50,0,SAM,Good,Difficult Run,3,9,7
+156,219,218,42,Circular,RCP,296,50,0,SAV,Good,Difficult Run,3,2,7
+156.5,219,218,42,Circular,RCP,296,50,0,SAV,Good,Difficult Run,3,3,7
+157,218,217,42,Circular,RCP,305,50,0,SAV,Good,Difficult Run,3,3,7
+157.5,218,217,42,Circular,RCP,305,50,0,SAV,Good,Difficult Run,3,3,7
+158,217,216,48,Circular,RCP,300,50,0,SAV,Good,Difficult Run,3,3,7
+158.5,217,216,48,Circular,RCP,300,50,0,SAV,Good,Difficult Run,3,3,7
+159,216,215,48,Circular,RCP,430,50,0,SAV,Poor,Difficult Run,3,3,7
+159.3,216,215,48,Circular,RCP,430,50,0,SAV,Poor,Difficult Run,3,3,7
+159.6,216,215,48,Circular,RCP,430,50,0,SAV,Poor,Difficult Run,5,3,7
+160,215,214,48,Circular,RCP,286,50,0,SAV,Good,Difficult Run,2,3,7
+160.3,215,214,48,Circular,RCP,286,50,0,SAV,Good,Difficult Run,2,3,7
+160.6,215,214,48,Circular,RCP,286,50,0,SAV,Good,Difficult Run,2,3,7
+161,214,213,48,Circular,RCP,326,50,0,SAV,Good,Difficult Run,2,3,7
+161.3,214,213,48,Circular,RCP,326,50,0,SAV,Good,Difficult Run,2,3,7
+161.6,214,213,48,Circular,RCP,326,50,0,SAV,Good,Difficult Run,2,3,7
+162,213,212,54,Circular,RCP,424,40,0,"SAV, H",Good,Difficult Run,3,9,7
+162.3,213,212,54,Circular,RCP,424,40,0,"SAV, H",Good,Difficult Run,3,9,7
+162.6,213,212,54,Circular,RCP,424,40,0,"SAV, H",Good,Difficult Run,3,9,7
+163,211,210,54,Circular,RCP,351,25,0,SAV,Poor,Difficult Run,2,3,7
+163.5,211,210,54,Circular,RCP,351,25,0,SAV,Poor,Difficult Run,2,3,7
+164,210,209,54,Circular,RCP,450,25,0,SAV,Good,Difficult Run,2,3,7
+164.3,210,209,54,Circular,RCP,450,25,0,SAV,Good,Difficult Run,2,3,7
+164.6,210,209,54,Circular,RCP,450,25,0,SAV,Good,Difficult Run,2,3,7
+165,209,208.2,66,Circular,RCP,144,25,0.1,SAV,Good,Difficult Run,4,3,7
+166,208.2,208,66,Circular,RCP,903,30,0,SAV,Good,Difficult Run,4,3,7
+166.3,208.2,208,66,Circular,RCP,903,30,0,SAV,Good,Difficult Run,4,3,7
+166.6,208.2,208,66,Circular,RCP,903,30,0,SAV,Good,Difficult Run,4,3,7
+167,208,207,54,Circular,RCP,360,25,0,SAV,Good,Difficult Run,4,3,7
+167.5,208,207,54,Circular,RCP,360,25,0,SAV,Good,Difficult Run,4,4,7
+168,207,206,54,Circular,RCP,394,50,0,SAV,Good,Difficult Run,4,4,7
+168.3,207,206,54,Circular,RCP,394,50,0,SAV,Good,Difficult Run,4,4,7
+168.6,207,206,54,Circular,RCP,394,50,0,SAV,Good,Difficult Run,2,4,7
+169,206,205,54,Circular,RCP,405,45,0,SAV,Poor,Difficult Run,2,4,7
+169.3,206,205,54,Circular,RCP,405,45,0,SAV,Poor,Difficult Run,2,5,7
+169.6,206,205,54,Circular,RCP,405,45,0,SAV,Poor,Difficult Run,2,5,7
+170,205,204,54,Circular,RCP,394,45,0,SAV,Good,Difficult Run,2,5,7
+170.5,205,204,54,Circular,RCP,394,45,0,SAV,Good,Difficult Run,2,5,7
+171,204,203,54,Circular,RCP,348,40,0,SAV,Good,Difficult Run,2,5,7
+171.3,204,203,54,Circular,RCP,348,40,0,SAV,Good,Difficult Run,2,5,7
+171.6,204,203,54,Circular,RCP,348,40,0,SAV,Good,Difficult Run,2,5,7
+172,203,202,54,Circular,RCP,313,40,0,SAV,Good,Difficult Run,2,5,7
+172.3,203,202,54,Circular,RCP,313,40,0,SAV,Good,Difficult Run,2,6,7
+172.6,203,202,54,Circular,RCP,313,40,0,SAV,Good,Difficult Run,2,6,7
+173,202,201,54,Circular,RCP,293,40,0,SAV,Good,Difficult Run,2,6,7
+173.3,202,201,54,Circular,RCP,293,40,0,SAV,Good,Difficult Run,2,6,7
+173.6,202,201,54,Circular,RCP,293,40,0,SAV,Good,Difficult Run,2,6,7
+174,201,200,54,Circular,RCP,481,40,0,SAV,Poor,Difficult Run,2,6,7
+174.3,201,200,54,Circular,RCP,481,40,0,SAV,Poor,Difficult Run,5,6,7
+174.6,201,200,54,Circular,RCP,481,40,0,SAV,Poor,Difficult Run,5,6,7
+175,200,29,54,Circular,RCP,105,20,0,SAV,Good,Difficult Run,3,6,7
+176,29,28,78,Other,RCP,1103.333333,20,0,SRV,Good,"MD, CB, PKWY",4,9,8
+176.3,29,28,78,Other,RCP,1103.333333,20,0,SRV,Good,"MD, CB, PKWY",4,9,8
+176.6,29,28,78,Other,RCP,1103.333333,20,0,SRV,Good,"MD, CB, PKWY",4,9,8
+177,26,25,84,C,RCP,726,40,0,SAV,Poor,"MD, CB, PKWY",3,6,8
+177.3,26,25,84,C,RCP,726,40,0,SAV,Poor,"MD, CB, PKWY",3,6,8
+177.6,26,25,84,C,RCP,726,40,0,SAV,Poor,"MD, CB, PKWY",3,6,8
+178,28,27,84,Circular,RCP,2945,30,0,SAV,Poor,"MD, CB, PKWY",1,4,8
+178.3,28,27,84,Circular,RCP,2945,30,0,SAV,Poor,"MD, CB, PKWY",1,4,8
+178.6,28,27,84,Circular,RCP,2945,30,0,SAV,Poor,"MD, CB, PKWY",1,4,8
+179,25,24,84,C,RCP,662,45,0,SAV,Poor,"MD, CB, PKWY",3,6,8
+179.3,25,24,84,C,RCP,662,45,0,SAV,Poor,"MD, CB, PKWY",3,6,8
+179.6,25,24,84,C,RCP,662,45,0,SAV,Poor,"MD, CB, PKWY",3,6,8
+180,27,26,84,Circular,RCP,700,30,0,SAM,Good,"MD, CB, PKWY",3,9,8
+180.3,27,26,84,Circular,RCP,700,30,0,SAM,Good,"MD, CB, PKWY",3,9,8
+180.6,27,26,84,Circular,RCP,700,30,0,SAM,Good,"MD, CB, PKWY",3,9,8
+181,24,23,84,Circular,RCP,677,40,0,SAV,Good,"MD, CB, PKWY",3,6,8
+181.3,24,23,84,Circular,RCP,677,40,0,SAV,Good,"MD, CB, PKWY",3,6,8
+181.6,24,23,84,Circular,RCP,677,40,0,SAV,Good,"MD, CB, PKWY",3,6,8
+182,22,21,84,Circular,RCP,667,30,0,SAM,NA,"MD, CB, PKWY",3,6,8
+182.3,22,21,84,Circular,RCP,667,30,0,SAM,NA,"MD, CB, PKWY",3,6,8
+182.6,22,21,84,Circular,RCP,667,30,0,SRP,NA,"MD, CB, PKWY",4,6,8
+183,23,22,84,Circular,RCP,658,40,0.1,SAV,Good,"MD, CB, PKWY",2,6,8
+183.3,23,22,84,Circular,RCP,658,40,0.1,SAV,Good,"MD, CB, PKWY",2,6,8
+183.6,23,22,84,Circular,RCP,658,40,0.1,SAV,Good,"MD, CB, PKWY",2,6,8
+184,15,14,78,Circular,RCP,374,30,0,SAP,NA,"MD, CB, PKWY",2,6,8
+184.3,15,14,78,Circular,RCP,374,30,0,SAP,NA,"MD, CB, PKWY",2,6,8
+184.6,15,14,78,Circular,RCP,374,30,0,SAP,NA,"MD, CB, PKWY",2,6,8
+185,14,13,78,Circular,RCP,523,30,0,SAP,NA,"MD, CB, PKWY",2,6,8
+185.3,14,13,78,Circular,RCP,523,30,0,SAP,NA,"MD, CB, PKWY",2,5,8
+185.6,14,13,78,Circular,RCP,523,30,0,SAP,NA,"MD, CB, PKWY",2,5,8
+186,21,20,84,Circular,RCP,456,40,0,SAV,Good,"MD, CB, PKWY",4,5,8
+186.3,21,20,84,Circular,RCP,456,40,0,SAV,Good,"MD, CB, PKWY",4,5,8
+186.6,21,20,84,Circular,RCP,456,40,0,SAV,Good,"MD, CB, PKWY",4,5,8
+187,12,11,78,Circular,RCP,642.3333333,40,0,SRV,Good,"MD, CB, PKWY",4,9,8
+187.3,12,11,78,Circular,RCP,642.3333333,40,0,SRV,Good,"MD, CB, PKWY",4,9,8
+187.6,12,11,78,Circular,RCP,642.3333333,40,0,SRV,Good,"MD, CB, PKWY",4,9,8
+188,20,19,84,Circular,RCP,40,30,0,SAV,Good,"MD, CB, PKWY",5,5,8
+189,11,10,78,Circular,RCP,662.6666667,30,0,SAM,NA,"MD, CB, PKWY",3,9,8
+189.3,11,10,78,Circular,RCP,662.6666667,30,0,SAM,NA,"MD, CB, PKWY",3,9,8
+189.6,11,10,78,Circular,RCP,662.6666667,30,0,SAM,NA,"MD, CB, PKWY",3,9,8
+190,19,18,84,Circular,RCP,511,25,0,SAV,Good,"MD, CB, PKWY",5,5,8
+190.3,19,18,84,Circular,RCP,511,25,0,SAV,Good,"MD, CB, PKWY",5,5,8
+190.6,19,18,84,Circular,RCP,511,25,0,SAV,Good,"MD, CB, PKWY",4,5,8
+191,10,9,78,Circular,RCP,665.6666667,30,0,SAM,NA,"MD, CB, PKWY",3,9,8
+191.3,10,9,78,Circular,RCP,665.6666667,30,0,SAM,NA,"MD, CB, PKWY",3,9,8
+191.6,10,9,78,Circular,RCP,665.6666667,30,0,SAM,NA,"MD, CB, PKWY",3,9,8
+192,18,17,78,Circular,RCP,46,45,0,SAV,Good,"MD, CB, PKWY",4,5,8
+193,9,8,78,Circular,RCP,533,30,0,SAV,Poor,"MD, CB, PKWY",1,3,8
+193.3,9,8,78,Circular,RCP,533,30,0,SAV,Poor,"MD, CB, PKWY",1,3,8
+193.6,9,8,78,Circular,RCP,533,30,0,SAV,Poor,"MD, CB, PKWY",1,3,8
+194,17,16,72,Circular,RCP,620,40,0,SRC,Poor,"MD, CB, PKWY",5,9,8
+194.3,17,16,72,Circular,RCP,620,40,0,SRC,Poor,"MD, CB, PKWY",5,9,8
+194.6,17,16,72,Circular,RCP,620,40,0,SRC,Poor,"MD, CB, PKWY",5,9,8
+195,8,7,78,Circular,RCP,13,30,0,SAV,Poor,"MD, CB, PKWY",1,3,8
+196,16,15,78,Circular,RCP,45,40,0,SAV,Good,"MD, CB, PKWY",5,5,8
+197,7,6,78,Circular,RCP,273.6666667,30,0,SAV,Poor,"MD, CB, PKWY",1,4,8
+197.3,7,6,78,Circular,RCP,273.6666667,30,0,SAV,Poor,"MD, CB, PKWY",1,4,8
+197.6,7,6,78,Circular,RCP,273.6666667,30,0,SAV,Poor,"MD, CB, PKWY",1,4,8
+198,13,12,78,Circular,RCP,640,50,0,SAV,Good,"MD, CB, PKWY",5,5,8
+198.3,13,12,78,Circular,RCP,640,50,0,SAV,Good,"MD, CB, PKWY",5,5,8
+198.6,13,12,78,Circular,RCP,640,50,0,SAV,Good,"MD, CB, PKWY",5,5,8
+199,6,5,78,Circular,RCP,504.3333333,30,0,SAV,Poor,"MD, CB, PKWY",1,4,8
+199.3,6,5,78,Circular,RCP,504.3333333,30,0,SAV,Poor,"MD, CB, PKWY",1,4,8
+199.6,6,5,78,Circular,RCP,504.3333333,30,0,SAV,Poor,"MD, CB, PKWY",1,4,8
+200,5,4,78,Circular,RCP,587,30,0,SAV,Poor,"MD, CB, PKWY",1,4,8
+200.3,5,4,78,Circular,RCP,587,30,0,SAV,Poor,"MD, CB, PKWY",1,4,8
+200.6,5,4,78,Circular,RCP,587,30,0,SAV,Poor,"MD, CB, PKWY",1,4,8
+201,4,3,78,Circular,RCP,669,30,0,SRP,NA,"MD, CB, PKWY",4,5,8
+201.3,4,3,78,Circular,RCP,669,30,0,SRP,NA,"MD, CB, PKWY",4,5,8
+201.6,4,3,78,Circular,RCP,669,30,0,SRP,NA,"MD, CB, PKWY",4,5,8
+202,3,2,78,Circular,RCP,649,30,0,SAP,NA,"MD, CB, PKWY",2,5,8
+202.3,3,2,78,Circular,RCP,649,30,0,SAP,NA,"MD, CB, PKWY",2,5,8
+202.6,3,2,78,Circular,RCP,649,30,0,SAP,NA,"MD, CB, PKWY",2,5,8
+203,2,1.6,78,Circular,RCP,531,30,0,SAP,NA,"MD, CB, PKWY",2,5,8
+203.3,2,1.6,78,Circular,RCP,531,30,0,SAP,NA,"MD, CB, PKWY",2,5,8
+203.6,2,1.6,78,Circular,RCP,531,30,0,SAP,NA,"MD, CB, PKWY",2,5,8
+204,1.6,4252,96,Circular,RCP,400,30,0,SRV,Poor,DC,4,9,8
+205,4252,4256,96,Circular,RCP,533.3333333,30,0,SRP,Poor,DC,4,9,9
+205.3,4252,4256,96,Circular,RCP,533.3333333,30,0,SRP,Poor,DC,4,9,9
+205.6,4252,4256,96,Circular,RCP,533.3333333,30,0,SRP,Poor,DC,4,9,9
+206,4256,4328,96,Circular,RCP,800,40,0,SAM,Good,DC,3,9,9
+207,6245,6243,96,Circular,RCP,200,50,0,SAV,Good,DC,5,2,9
+208,6246,6245,96,Circular,RCP,200,30,0,SRC,NA,DC,5,1,9
+209,6971,6972,96,Circular,RCP,29.1,30,0,SAM,NA,DC,3,9,9
+210,6972,6975,84,Circular,RCP,225,60,0,SAV,Poor,DC,1,3,9
+210.5,6972,6975,84,Circular,RCP,225,60,0,SAV,Poor,DC,1,3,9
+211,6973,6974,84,Circular,RCP,304.7,30,0,SAM,NA,DC,3,9,9
+212,6974,6975,84,Circular,RCP,27.3,30,0,SAM,NA,DC,3,9,9
+213,6975,6977,84,Circular,RCP,250,40,0,SAM,Poor,DC,3,9,9
+213.5,6975,6977,84,Circular,RCP,250,40,0,SAM,Poor,DC,3,9,9
+214,6977,7667,84,Circular,RCP,683.3333333,60,0,SAV,Poor,DC,1,3,9
+214.3,6977,7667,84,Circular,RCP,683.3333333,60,0,SAV,Poor,DC,1,3,9
+214.6,6977,7667,84,Circular,RCP,683.3333333,60,0,SAV,Poor,DC,1,3,9
+215,7371,7667,84,Circular,RCP,268,30,0,SAM,NA,DC,3,9,9
+216,7667,7683,96,Circular,RCP,250,60,0,SRV,Good,DC,4,9,9
+216.5,7667,7683,96,Circular,RCP,250,60,0,SRV,Good,DC,4,9,9
+217,7683,8197,96,Circular,RCP,733.3333333,80,0,SAV,Poor,DC,1,3,9
+217.3,7683,8197,96,Circular,RCP,733.3333333,80,0,SAV,Poor,DC,1,3,9
+217.6,7683,8197,96,Circular,RCP,733.3333333,80,0,SAV,Poor,DC,1,3,9
+218,7768,8198,96,Circular,RCP,40,30,0,SAM,NA,DC,3,9,9
+219,8174,8197,96,Circular,RCP,226.5,30,0,SAM,NA,DC,3,9,9
+220,8196,8174,96,Circular,RCP,308,30,0,SAM,NA,DC,3,9,9
+221,8197,36206,96,Circular,RCP,316.6666667,75,0,SAV,Good,DC,1,3,9
+221.3,8197,36206,96,Circular,RCP,316.6666667,75,0,SAV,Good,DC,1,3,9
+221.6,8197,36206,96,Circular,RCP,316.6666667,75,0,SAV,Good,DC,1,3,9
+222,8198,8196,96,Circular,RCP,292,30,0,SRP,NA,DC,4,9,9
+222.5,8198,8196,96,Circular,RCP,292,30,0,SRP,NA,DC,4,9,9
+223,36204,838,102,Circular,zzz,393,80,0,SRV,Good,DC,4,9,9
+223.3,36204,838,102,Circular,zzz,393,80,0,SRV,Good,DC,4,9,9
+223.6,36204,838,102,Circular,zzz,393,80,0,SRV,Good,DC,5,1,9
+224,36206,36207,60,Circular,DIP,200,95,0,SRC,Poor,DC,5,1,9
+225,36206,36207,60,Circular,DIP,200,95,0,SRC,Poor,DC,5,1,9
+226,36206,36207,42,Circular,DIP,200,95,0,SAV,Poor,DC,1,3,9
+227,36184,36184.5,108,Circular,RCP,341,30,0,SRP,NA,DC,4,9,9
+228,37500,36184,108,Circular,RCP,212.5,30,0,SRP,NA,DC,4,9,9
+228.5,37500,36184,108,Circular,RCP,212.5,30,0,SRP,NA,DC,4,9,9

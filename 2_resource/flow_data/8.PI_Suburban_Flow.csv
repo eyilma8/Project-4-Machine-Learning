@@ -1,0 +1,52 @@
+Input MH,Input_Name,route,user,Flow,Flow_length
+1,Sully Road #1,1,Fairfax,2.69,450
+1,Sully Road #2,1,Fairfax,1.88,5981
+104,Rock Hill Rd,1,Fairfax,0.57,9519
+83,Dulles,2,Dulles,0.81,1700
+80,Indian Creek,2,Loudoun,0.68,4796
+73,Broad Run,2,Loudoun,0.12,4796
+73,Mercure,2,Loudoun,0.02,4796
+73,Loudoun Station 2,2,Loudoun,0.02,4796
+70,Loudoun Station,2,Loudoun,0,5645
+64,West Sterling,2,Loudoun,0.34,2004
+62,Beaumeade #1,2,Loudoun,0.22,2004
+62,Beaumeade #2,2,Loudoun,0.02,2004
+60,Rock Hill - CIT Bldg,2,Loudoun,0.02,3906
+58,Cabin Branch,2,Loudoun,1.44,3798
+55,Dulles Town Center,2,Loudoun,0.32,3798
+55,Russel Branch (S-17),2,Loudoun,4.64,7992
+53,Jefferson Village,2,Loudoun,0.09,7992
+53,Country Side # 1,2,Loudoun,0.06,3009
+51,Country Side # 2,2,Loudoun,0.18,3009
+51,Country Side # 2,2,Loudoun,1.25,3212
+49,Triple 7,2,Loudoun,0.88,2012
+48,Cascade Northern,2,Loudoun,0.29,7501
+44,Richland Acres,2,Loudoun,0.02,1826
+44,Richland Acres,2,Loudoun,0.02,0
+44,Herndon Junction,2,Loudoun,0.02,0
+44,Boise Cascade,2,Loudoun,0.37,0
+44,Seneca,2,Loudoun,0.36,0
+44,Cascade Western,2,Loudoun,0.29,0
+44,Great Falls Forest # 1,2,Loudoun,0.16,0
+44,Great Falls Forest # 2,2,Loudoun,0.05,0
+44,Sugarland Run,3,Fairfax,3.51,15010
+44,AT & T - B3046 - P.I.,3,Fairfax,0.11,15010
+44,Woodstone,3,Loudoun,0.096098563,5739
+44,Bridges 625/604,3,Loudoun,0.450885695,5739
+44,Hughes Branch,3,Loudoun,0.450885695,5739
+44,Woodstone,2,Loudoun,0.1,0
+44,625/604,2,Loudoun,0.45,0
+44,Hughes Branch,2,Loudoun,0.45,0
+43,Northwestern,4,Loudoun,0.18,3995
+41,Northeastern,4,Loudoun,0.08,18955
+41,NICHOLS RUN,4,Fairfax,0.02,18955
+31,Watts_River_PI Branch,5,Montgomery,5.22,14057
+31,Muddy_Branch_PI,5,Montgomery,6.77,14057
+29,Town of Vienna,7,Vienna,1.06,21543
+29,Nationan Park Service,8,NPS,0.03,14057
+29,Great Falls,7,Fairfax,9.31,21543
+23,Scott Run,8,Fairfax,2.79,4000
+21,Naval Ship R&D,8,Navy,0.07,1437
+20,Rock_Run_PI,8,Montgomery,0.74,1437
+20,WSSC_unmetered_PI,8,Montgomery,0.1,12155
+10,Cabin_PI,8,Montgomery,5.68,13251
